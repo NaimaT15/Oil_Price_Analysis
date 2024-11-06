@@ -1,1 +1,4 @@
 venv
+oip-price-analysis/node_modules
+data
+node_modules
